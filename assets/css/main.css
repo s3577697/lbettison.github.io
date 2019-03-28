@@ -84,6 +84,7 @@ text-align: center;
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
+opacity: 0;
   width: 33.33%;
   padding: 10px;
   height: 800px; /* Should be removed. Only for demonstration */
